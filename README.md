@@ -12,7 +12,7 @@ const Miranda_Juan= {
    technologies: {
       frontEnd: {
          js: ["React", "Angular"],
-         css: ["Bootstrap", "Material Design", "Semantic UI"]
+         css: ["Bootstrap"]
       },
       backEnd: {
          java: ["Spring"],

@@ -1,7 +1,7 @@
 
 <h2> Hi, I'm Miranda Juan!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
 
-<p><em>A bachelor student 😊</br>
+<p><em>An academic student 😊</br>
 </em></p>
 
 

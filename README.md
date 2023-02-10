@@ -1,7 +1,7 @@
 
-<h2> Hi, I'm Miranda Juan! <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"></h2>
+<h2> Hi, I'm Miranda Juan!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
 
-<p><em>A bachelor student, majoring in Computer Science. 😊</br>
+<p><em>A bachelor student 😊</br>
 </em></p>
 
 

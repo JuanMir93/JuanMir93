@@ -23,7 +23,7 @@ const Miranda_Juan= {
       mobile: ["Android"]
    },
    currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon."
+   challenge: "I'm looking for a job."
 };
 ```
 </br></br>

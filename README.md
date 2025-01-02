@@ -22,7 +22,7 @@ const Miranda_Juan= {
       databases: ["MongoDB", "mySQL", "PostgreSQL"],
       mobile: ["Android"]
    },
-   currentOccupation: ["last year student, open for job opportunities"],
+   currentOccupation: ["open for job opportunities"],
    challenge: "I'm looking for a job."
 };
 ```
